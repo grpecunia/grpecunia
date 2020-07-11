@@ -17,9 +17,9 @@ I'm a Software Developer and Project Manager with experience in delivering creat
 ##### Technologies: HTML, CSS, JavaScript,  React.js, Node.js, Express.js, MongoDB, MySQL, R, Python, Apache, Linux, AWS, DigitalOcean, Wordpress, Workday, SPSS, Git
 
 <br/>
-<span align="center">
+
 [![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=grpecunia&show_icons=true&theme=merko)](https://github.com/grpecunia)
-</span>
+
 
 <a href="https://github.com/EngagementML/EngagementML">
   
