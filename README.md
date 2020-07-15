@@ -4,7 +4,7 @@
 
 I'm a Software Developer and Project Manager with experience in delivering creative and effective solutions across healthcare, higher education, nonprofits, startups, and other industries. I’m very passionate about transforming operations with technology and challenging standard practices. My strategic focus is on people interactions, how we learn, perform, and communicate. 
 
-###### "Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - B .Greene
+###### <p align="center">"Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - B. Greene </p>
 
 <br/>
 
