@@ -4,18 +4,11 @@
   <img align="left" alt="Gustavo Rivera Pecunia | Twitter" width="21px" src="https://raw.githubusercontent.com/grpecunia/grpecunia/master/assets/twitter.svg" />
 </a>
 
-I'm a Software Developer and Project Manager with experience in delivering creative and effective solutions across healthcare, higher education, nonprofits, startups, and other industries.
+I'm a Software Developer and Project Manager with experience in delivering creative and effective solutions across healthcare, higher education, nonprofits, startups, and other industries. I’m very passionate about transforming operations with technology and challenging standard practices. My strategic focus is on people interactions, how we learn, perform, and communicate. 
 
-<br />
-<br />
+##### Skills: Project Management, Process Improvement, Statistical Analysis, Change Management, HR Transformation, Agile Development, Benchmarking
 
-      + I’m very passionate about transforming operations with technology and challenging standard practices. 
-
-      + My strategic focus is on people interactions, how we learn, perform, and communicate. 
-
-#### Skills: Project Management, Process Improvement, Statistical Analysis, Change Management, HR Transformation, Agile Development, Benchmarking
-
-#### Technologies: HTML, CSS, JavaScript,  React.js, Node.js, Express.js, MongoDB, MySQL, R, Python, Apache, Linux, AWS, DigitalOcean, Wordpress, Workday, SPSS, Git
+##### Technologies: HTML, CSS, JavaScript,  React.js, Node.js, Express.js, MongoDB, MySQL, R, Python, Apache, Linux, AWS, DigitalOcean, Wordpress, Workday, SPSS, Git
 
 
 **Languages and Tools:**  
@@ -30,7 +23,7 @@ I'm a Software Developer and Project Manager with experience in delivering creat
 
 <a href="https://github.com/EngagementML/EngagementML">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grpecunia&repo=EngagementML/EngagementML&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EngagementML&repo=EngagementML&theme=merko" />
 </a>
 
 <a href="https://github.com/grpecunnia/tickercorrelate">
@@ -38,7 +31,7 @@ I'm a Software Developer and Project Manager with experience in delivering creat
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grpecunia&repo=tickercorrelate&theme=merko" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/grpecunia/Mancala">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grpecunia&repo=grpecunia&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grpecunia&repo=Mancala&theme=merko" />
 </a>
