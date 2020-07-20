@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm [Gustavo!](https://riverapecunia.com) <a href="https://twitter.com/grpecunia">
+### 👋 Hi there, my name is [Gustavo!](https://riverapecunia.com) <a href="https://twitter.com/grpecunia">
   <img align="left" alt="Gustavo Rivera Pecunia | Twitter" width="21px" src="https://raw.githubusercontent.com/grpecunia/grpecunia/master/assets/twitter.svg" />
 </a>  
 
-I'm a Software Developer and Project Manager with experience in delivering creative and effective solutions across healthcare, higher education, nonprofits, startups, and other industries. I’m very passionate about transforming operations with technology and challenging standard practices. My strategic focus is on people interactions, how we learn, perform, and communicate. 
+I'm a Software Developer and Project Manager with experience in delivering creative and effective solutions across healthcare, higher education, nonprofits, startups, and other industries. I'm very passionate about transforming operations with technology and challenging standard practices. My strategic focus is on people's interactions, how we learn, perform, and communicate.
 
 ###### <p align="center">"Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - B. Greene </p>
 
