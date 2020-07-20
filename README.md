@@ -18,8 +18,7 @@ I'm a Software Developer and Project Manager with experience in delivering creat
 
 <br/>
 
-[![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=grpecunia&show_icons=true&theme=merko)](https://github.com/grpecunia)
-
+[![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=grpecunia&show_icons=true&theme=merko&hide=["issues"])](https://github.com/grpecunia)
 
 <a href="https://github.com/EngagementML/EngagementML">
   
