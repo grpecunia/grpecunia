@@ -25,7 +25,7 @@ I'm a Software Developer and Project Manager with experience in delivering creat
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EngagementML&repo=EngagementML&theme=merko" />
 </a>
 
-<a href="https://github.com/grpecunnia/tickercorrelate">
+<a href="https://github.com/grpecunia/tickercorrelate">
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=grpecunia&repo=tickercorrelate&theme=merko" />
 </a>
