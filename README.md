@@ -14,7 +14,7 @@ I'm a Software Developer and Project Manager with experience in delivering creat
 
 ##### Skills: Project Management, Process Improvement, Statistical Analysis, Change Management, HR Transformation, Agile Development, Benchmarking
 
-##### Technologies: HTML, CSS, JavaScript,  React.js, Node.js, Express.js, MongoDB, MySQL, R, Python, Apache, Linux, AWS, DigitalOcean, Wordpress, Workday, SPSS, Git
+##### Technologies: HTML, CSS, JavaScript,  React.js, Node.js, Express.js, MongoDB, MySQL, SQLite, R, Python, Apache, Linux, AWS, DigitalOcean, Wordpress, Workday, SPSS, Git, GraphQL, Apollo
 
 <br/>
 
