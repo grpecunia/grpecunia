@@ -1,8 +1,9 @@
 ### 👋 Hi there, my name is [Gustavo](https://riverapecunia.com), Co-Founder & Chief Technology Officer @ <a href="https://quibblerm.com/">Quibble</a> ! 
 <a href="https://quibblerm.com">
  
-<span align="center"> <img width="400px" src="https://868091.smushcdn.com/1934975/wp-content/uploads/2020/08/quibble-logo-1200x406.png?lossy=1&strip=1&webp=1" />
-</span></a>
+<p align="center"> <img width="400px" src="https://868091.smushcdn.com/1934975/wp-content/uploads/2020/08/quibble-logo-1200x406.png?lossy=1&strip=1&webp=1" />
+</p></a>
+</br>
 
 We created Quibble to address the gap in the market between the simple rules-based software applications currently available and a truly science-based optimization. Quibble bundles our software with a full service offering to give our clients complete Pricing Ease of Mind.
 
