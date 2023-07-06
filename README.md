@@ -1,7 +1,7 @@
 ### 👋 Hi there, my name is [Gustavo](https://riverapecunia.com), Co-Founder & Chief Technology Officer @ <a href="https://quibblerm.com/">Quibble</a> ! 
 <a href="https://quibblerm.com">
  
-<p align="center"> <img width="400px" src="https://868091.smushcdn.com/1934975/wp-content/uploads/2020/08/quibble-logo-1200x406.png?lossy=1&strip=1&webp=1" />
+<p align="center"> <img src="https://quibblerm.com/wp-content/uploads/2022/09/PNG_Quibble_-VECTOR-LOGO-FINAL_new-sept_-copy-2-200x104.png" />
 </p></a>
 </br>
 
