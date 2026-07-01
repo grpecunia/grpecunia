@@ -48,17 +48,6 @@ Most vacation-rental pricing tools are glorified `if`-statements. We built [**Qu
 
 ---
 
-### 📊 By the numbers
-
-<div align="center">
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grpecunia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grpecunia&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 🎾 tennis · 🍳 cooking · 🥃 aggressively pro-pitorro · 🐶 supervised by Bruno & Georgie · 🇵🇷 built from Puerto Rico
